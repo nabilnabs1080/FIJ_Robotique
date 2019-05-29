@@ -21,6 +21,7 @@ while trouver == False:
     print("tape un nombre entre 0 et 100")
     # on convertit le nombre taper au clavier en int
     reponse = int( input() )
+    
     # on compare notre reponse avec le nb aleatoire
     if reponse < nbAleatoire :
         print("le nombre est plus grand")

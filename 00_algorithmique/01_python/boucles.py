@@ -15,7 +15,7 @@ while flag :
     print("bonjour")
     flag = False 
 
-
+#For > pour chaque
 phrase = "Bonjour a tous !"
 
 for lettre in phrase:
